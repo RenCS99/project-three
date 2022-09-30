@@ -1,14 +1,14 @@
-### bootstrap-boilerplate
+### Project 3
 
 20220818T012100
 Author: Rene Cueva Salas
 
 # Project Title
-Bootstrap Boilerplate
+Project Three
 
 ### Description
 ---
-This is challenge 6 of week 5 of the Bitwise Web Development Program
+This is porject 3 of the Bitwise Web Development Program
 
 ### Prerequesites
 ---
@@ -16,11 +16,11 @@ Bootstrap Files
 
 ### Dependencies:
 ---
-css/styles.css - for the styling of the index.html
+Bootstrap library link or Bootstrap library
 
 ### Contributing
 ---
-Issue Tracker: github.com/bootstrap-boilerplate/issues
+Issue Tracker: github.com/project-three/issues
 
 ### License
 ---
